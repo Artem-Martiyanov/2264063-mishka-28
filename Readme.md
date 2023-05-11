@@ -3,6 +3,8 @@
 * Студент: [Артём Мартиянов](https://up.htmlacademy.ru/adaptive/28/user/2264063).
 * Наставник: [Александр Сударев](https://htmlacademy.ru/profile/id1152185).
 
+* [Ссылка на деплой](https://artem-martiyanov.github.io/2264063-mishka-28/).
+
 ---
 
 **Обратите внимание, что папка с вашими исходными файлами для работы над проектом — `source/`.**
